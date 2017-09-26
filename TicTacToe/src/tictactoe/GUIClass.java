@@ -36,7 +36,7 @@ public class GUIClass{
      
      
      
-  
+  // So the changes have been made, if this shows up for github
 public void WinActions(boolean WhichOne){
 
     
